@@ -1,4 +1,1 @@
-First there was, commit-remote in master
-
-Then there was, commit-remote
-
+commit-remote in master
